@@ -6,11 +6,7 @@ Click the button below to deploy to Heroku
 
 ## 0. Attention
 
-Deployment requires registration of a heroku account, a email is required when registering a heroku account (otherwise the verification code cannot be brushed out). 
-
-An email address that can receive verification codes normally (@qq.com, @163.com are not acceptable):
-- gmail (Best) 
-- Outlook <https://login.live.com/> here.
+Deployment requires registration of a heroku account.
 
 ## 1. Verification
 
